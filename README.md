@@ -1,5 +1,5 @@
 ## 第一阶段（预备）
-#### Rust 学习
+#### 关于Rust 学习
 1. 用哪一种[学习素材]( https://github.com/rcore-os/rCore/wiki/study-resource-of-system-programming-in-RUST)？大家使用同一种，还是各自选择？
     - 选定学习方案二(看起来比较适合中国宝宝体质😂)
         - 阅读并学习[Rust语言圣经(Rust教程 Rust Course)](https://course.rs/about-book.html)（1~6天）
@@ -7,6 +7,7 @@
         - 完成编程小练习[Rustlings](https://github.com/rust-lang/rustlings)和中等规模练习，在实践中反复学习。（3~9天）  
 2. 学习进度如何同步？
     - 使用**github organization的 projects** 管理进度
+    - https://github.com/orgs/RustCoreBoys/projects/2/views/3
 
 
 3. 学习质量如何反馈？
@@ -27,12 +28,12 @@
 4. 聚会周期/聚会的时间节点
     - 第一阶段的开始、闭幕
     - 第二阶段的开始、闭幕
-    - 
 5. 日志/报告
-    - 设置专有repo                  
+    - 设置专有repo: https://github.com/RustCoreBoys/RustCoreBoys.github.io
+    - 日志博客地址: https://rustcoreboys.github.io/                  
     - 每两天更新一次
 6. 资源共享
-    - 设置专有repo
+    - 设置专有repo: https://github.com/RustCoreBoys/Resources
 
 
 
